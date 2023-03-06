@@ -25,3 +25,16 @@ h1, h2 {
     float: left;
     font-size: 280%;
 }
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+#menu li {
+    list-style-type: none;
+    margin-right: 30px;
+    display: inline;
+}
