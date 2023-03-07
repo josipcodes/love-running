@@ -142,20 +142,19 @@ hr {
     margin: 5px 0;
 }
 
-.left-about-heading {
+.about-heading {
     width: 60%;
-    float: right;
     line-height: 20px;
     clear: both;
     margin-bottom: 50px;
 }
 
+.left-about-heading {
+    float: right;
+}
+
 .right-about-heading {
-    width: 60%;
     float: left;
-    line-height: 20px;
-    clear: both;
-    margin-bottom: 50px;
 }
 
 .right-about-heading h2 {
