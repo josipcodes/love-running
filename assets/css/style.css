@@ -212,14 +212,16 @@ hr {
 /* footer */
 
 footer {
-    height: 150px;  
+    height: 150px; 
 }
 
 .social-networks {
     display: flex;
     justify-content: space-around;
     align-content: center;
-    padding: 60px 400px;
+    padding: 60px 0;
+    margin-left: 15%;
+    margin-right: 15%;
 }
 
 .social-networks li {
